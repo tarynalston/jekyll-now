@@ -2,7 +2,7 @@
 layout: page
 title: Rene Balkan
 permalink: /about/
-character: booty booty booty booty rockin' everywhere
+character: booty-booty-booty-booty-rockin'-everywhere
 ---
 # {{page.character}}
 My name is Rene Balkan and i yam a fox. I like to fite krime, and that becam much ezeyer when I gained super powers. Now i yam a super focs. My super powers make me creeyate lazers with my hands. It scares all the bad guise away. They know I yam boss. Some bold ones still try to com at me tho. But I fite them too.
